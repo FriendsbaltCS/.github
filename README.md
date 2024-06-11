@@ -15,7 +15,7 @@ useful.
 
 Currently, we have the following courses available (beta):
 
-- Web and the User Experience
+- (Web and the User Experience)[https://github.com/FSBCS/WebUX]
 - Advanced Topics in CS: The Internet
 
 Coming soon:
